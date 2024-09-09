@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ProductHub11/static/css/main.2187a832.css",
+    "main.js": "/ProductHub11/static/js/main.2d5dea88.js",
+    "static/media/istockphoto-1217805751-612x612.jpg": "/ProductHub11/static/media/istockphoto-1217805751-612x612.4db7971a4d8e1f6aa94f.jpg",
+    "static/media/istockphoto-597245404-612x612.webp": "/ProductHub11/static/media/istockphoto-597245404-612x612.e8ada3768ae2bc8d9b97.webp",
+    "static/media/istockphoto-1546442230-612x612.webp": "/ProductHub11/static/media/istockphoto-1546442230-612x612.2a5c6a6331407e140bd1.webp",
+    "index.html": "/ProductHub11/index.html",
+    "main.2187a832.css.map": "/ProductHub11/static/css/main.2187a832.css.map",
+    "main.2d5dea88.js.map": "/ProductHub11/static/js/main.2d5dea88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2187a832.css",
+    "static/js/main.2d5dea88.js"
+  ]
+}
